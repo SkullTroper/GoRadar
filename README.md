@@ -1,4 +1,4 @@
-# Albion Radar 🌟
+# Albion GoRadar 🌟
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Code Coverage](https://img.shields.io/badge/coverage-80%25-yellow.svg)
